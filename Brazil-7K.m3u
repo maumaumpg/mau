@@ -1,0 +1,562 @@
+﻿#EXTM3U
+
+#EXTINF:-1,PORTAL
+http://168.205.87.198:8555/live/1114/123456/82.ts
+#EXTINF:-1,AGRO BRASIL
+http://168.205.87.198:8555/live/1114/123456/7.ts
+#EXTINF:-1,AGRO CANAL
+http://168.205.87.198:8555/live/1114/123456/10.ts
+#EXTINF:-1,AGROMAIS
+http://168.205.87.198:8555/live/1114/123456/175.ts
+#EXTINF:-1,ALL SPORTS
+http://168.205.87.198:8555/live/1114/123456/148.ts
+#EXTINF:-1,AMERICA LATINO
+http://168.205.87.198:8555/live/1114/123456/16.ts
+#EXTINF:-1,ARTE1
+http://168.205.87.198:8555/live/1114/123456/170.ts
+#EXTINF:-1,BAND NEWS
+http://168.205.87.198:8555/live/1114/123456/174.ts
+#EXTINF:-1,BAND SPORTS
+http://168.205.87.198:8555/live/1114/123456/176.ts
+#EXTINF:-1,BAND
+http://168.205.87.198:8555/live/1114/123456/19.ts
+#EXTINF:-1,BOA VONTADE TV
+http://168.205.87.198:8555/live/1114/123456/21.ts
+#EXTINF:-1,BRA
+http://168.205.87.198:8555/live/1114/123456/24.ts
+#EXTINF:-1,BRSUPER TV
+http://168.205.87.198:8555/live/1114/123456/147.ts
+#EXTINF:-1,CANAL DO BOI
+http://168.205.87.198:8555/live/1114/123456/167.ts
+#EXTINF:-1,CANAL RURAL
+http://168.205.87.198:8555/live/1114/123456/166.ts
+#EXTINF:-1,CANAL SAÚDE
+http://168.205.87.198:8555/live/1114/123456/165.ts
+#EXTINF:-1,CANÇÃO NOVA
+http://168.205.87.198:8555/live/1114/123456/25.ts
+#EXTINF:-1,CENTRAL TV
+http://168.205.87.198:8555/live/1114/123456/177.ts
+#EXTINF:-1,CHESPIRITO
+http://168.205.87.198:8555/live/1114/123456/159.ts
+#EXTINF:-1,CLASSIC HITS
+http://168.205.87.198:8555/live/1114/123456/27.ts
+#EXTINF:-1,CNB AMERICAN
+http://168.205.87.198:8555/live/1114/123456/180.ts
+#EXTINF:-1,CNB
+http://168.205.87.198:8555/live/1114/123456/179.ts
+#EXTINF:-1,CNN BRASIL
+http://168.205.87.198:8555/live/1114/123456/28.ts
+#EXTINF:-1,CNT
+http://168.205.87.198:8555/live/1114/123456/150.ts
+#EXTINF:-1,CULTURA
+http://168.205.87.198:8555/live/1114/123456/32.ts
+#EXTINF:-1,CULT
+http://168.205.87.198:8555/live/1114/123456/30.ts
+#EXTINF:-1,FASHION TV
+http://168.205.87.198:8555/live/1114/123456/61.ts
+#EXTINF:-1,FISH TV
+http://168.205.87.198:8555/live/1114/123456/62.ts
+#EXTINF:-1,FUTURA
+http://168.205.87.198:8555/live/1114/123456/67.ts
+#EXTINF:-1,GAZETA
+http://168.205.87.198:8555/live/1114/123456/69.ts
+#EXTINF:-1,GLOBO MINAS
+http://168.205.87.198:8555/live/1114/123456/70.ts
+#EXTINF:-1,HITTS
+http://168.205.87.198:8555/live/1114/123456/72.ts
+#EXTINF:-1,JP NEWS
+http://168.205.87.198:8555/live/1114/123456/161.ts
+#EXTINF:-1,KIDS
+http://168.205.87.198:8555/live/1114/123456/143.ts
+#EXTINF:-1,LOADING TV
+http://168.205.87.198:8555/live/1114/123456/142.ts
+#EXTINF:-1,MASTER TV
+http://168.205.87.198:8555/live/1114/123456/74.ts
+#EXTINF:-1,MEGA
+http://168.205.87.198:8555/live/1114/123456/75.ts
+#EXTINF:-1,NOVO TEMPO
+http://168.205.87.198:8555/live/1114/123456/149.ts
+#EXTINF:-1,ONDA OESTE
+http://168.205.87.198:8555/live/1114/123456/169.ts
+#EXTINF:-1,PAI ETERNO
+http://168.205.87.198:8555/live/1114/123456/144.ts
+#EXTINF:-1,POLISHOP
+http://168.205.87.198:8555/live/1114/123456/153.ts
+#EXTINF:-1,PRIME BOX
+http://168.205.87.198:8555/live/1114/123456/83.ts
+#EXTINF:-1,RATIMBUM
+http://168.205.87.198:8555/live/1114/123456/84.ts
+#EXTINF:-1,RECORD MINAS
+http://168.205.87.198:8555/live/1114/123456/96.ts
+#EXTINF:-1,RECORD NEWS
+http://168.205.87.198:8555/live/1114/123456/97.ts
+#EXTINF:-1,REDE FAMILIA
+http://168.205.87.198:8555/live/1114/123456/151.ts
+#EXTINF:-1,REDE GENESIS
+http://168.205.87.198:8555/live/1114/123456/98.ts
+#EXTINF:-1,REDE METROPOLE
+http://168.205.87.198:8555/live/1114/123456/99.ts
+#EXTINF:-1,REDE MINAS
+http://168.205.87.198:8555/live/1114/123456/101.ts
+#EXTINF:-1,REDE SUPER
+http://168.205.87.198:8555/live/1114/123456/163.ts
+#EXTINF:-1,REDE TV
+http://168.205.87.198:8555/live/1114/123456/102.ts
+#EXTINF:-1,REDE UTV
+http://168.205.87.198:8555/live/1114/123456/178.ts
+#EXTINF:-1,REDE VIDA
+http://168.205.87.198:8555/live/1114/123456/103.ts
+#EXTINF:-1,RIT
+http://168.205.87.198:8555/live/1114/123456/168.ts
+#EXTINF:-1,RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/1114/123456/85.ts
+#EXTINF:-1,RÁDIO FESTA
+http://168.205.87.198:8555/live/1114/123456/86.ts
+#EXTINF:-1,RÁDIO LOUNGE
+http://168.205.87.198:8555/live/1114/123456/87.ts
+#EXTINF:-1,RÁDIO METAL
+http://168.205.87.198:8555/live/1114/123456/89.ts
+#EXTINF:-1,RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/1114/123456/88.ts
+#EXTINF:-1,RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/1114/123456/90.ts
+#EXTINF:-1,RÁDIO PAGODE
+http://168.205.87.198:8555/live/1114/123456/91.ts
+#EXTINF:-1,RÁDIO POP HITS
+http://168.205.87.198:8555/live/1114/123456/92.ts
+#EXTINF:-1,RÁDIO POP ROCK
+http://168.205.87.198:8555/live/1114/123456/93.ts
+#EXTINF:-1,RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/1114/123456/95.ts
+#EXTINF:-1,SABOR E ARTE
+http://168.205.87.198:8555/live/1114/123456/172.ts
+#EXTINF:-1,SBT ALTEROSA
+http://168.205.87.198:8555/live/1114/123456/104.ts
+#EXTINF:-1,SCH
+http://168.205.87.198:8555/live/1114/123456/105.ts
+#EXTINF:-1,SECULO 21
+http://168.205.87.198:8555/live/1114/123456/106.ts
+#EXTINF:-1,SESC TV
+http://168.205.87.198:8555/live/1114/123456/107.ts
+#EXTINF:-1,SHOPTIME
+http://168.205.87.198:8555/live/1114/123456/164.ts
+#EXTINF:-1,SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/1114/123456/160.ts
+#EXTINF:-1,TERRA VIVA
+http://168.205.87.198:8555/live/1114/123456/171.ts
+#EXTINF:-1,TRAVEL
+http://168.205.87.198:8555/live/1114/123456/124.ts
+#EXTINF:-1,TV APARECIDA
+http://168.205.87.198:8555/live/1114/123456/131.ts
+#EXTINF:-1,TV BRASIL 2
+http://168.205.87.198:8555/live/1114/123456/135.ts
+#EXTINF:-1,TV BRASIL
+http://168.205.87.198:8555/live/1114/123456/134.ts
+#EXTINF:-1,TV CÂMARA
+http://168.205.87.198:8555/live/1114/123456/136.ts
+#EXTINF:-1,TV ESCOLA
+http://168.205.87.198:8555/live/1114/123456/137.ts
+#EXTINF:-1,TV JUSTIÇA
+http://168.205.87.198:8555/live/1114/123456/138.ts
+#EXTINF:-1,TV SENADO
+http://168.205.87.198:8555/live/1114/123456/139.ts
+#EXTINF:-1,TV TURFE
+http://168.205.87.198:8555/live/1114/123456/152.ts
+#EXTINF:-1,VRT CHANNEL
+http://168.205.87.198:8555/live/1114/123456/146.ts
+#EXTINF:-1,WOOHOO
+http://168.205.87.198:8555/live/1114/123456/141.ts
+#EXTINF:-1,ZOOMOO
+http://168.205.87.198:8555/live/1114/123456/162.ts
+#EXTINF:-1,BR | band sports sd
+http://fortv.cc:8080/Rob/Rob2021/79105.ts
+#EXTINF:-1,BR | GLOBO NEWS HD
+http://fortv.cc:8080/Rob/Rob2021/79104.ts
+#EXTINF:-1,BR: ESPN HD
+http://fortv.cc:8080/Rob/Rob2021/43490.ts
+#EXTINF:-1,BR Globo SP HD
+http://fortv.cc:8080/Rob/Rob2021/21020
+#EXTINF:-1,BR: HBO 2 FHD
+http://fortv.cc:8080/Rob/Rob2021/21017
+#EXTINF:-1,BR: HBO HD
+http://fortv.cc:8080/Rob/Rob2021/21016
+#EXTINF:-1,BR: HBO PLUS HD
+http://fortv.cc:8080/Rob/Rob2021/21015
+#EXTINF:-1,BR: HBO SIGNATURE HD
+http://fortv.cc:8080/Rob/Rob2021/21014
+#EXTINF:-1,BR: RECORD RJ HD
+http://fortv.cc:8080/Rob/Rob2021/16200
+#EXTINF:-1,BR: SBT HD
+http://fortv.cc:8080/Rob/Rob2021/20978
+#EXTINF:-1,BR: SPORT TV 1
+http://fortv.cc:8080/Rob/Rob2021/43492
+#EXTINF:-1,BR: SPORT TV 3 HD
+http://fortv.cc:8080/Rob/Rob2021/43493
+#EXTINF:-1,BR: SPORTV 2 HD
+http://fortv.cc:8080/Rob/Rob2021/43491
+#EXTINF:-1,BR: Star Channel
+http://fortv.cc:8080/Rob/Rob2021/43494
+#EXTINF:-1,BR: STUDIO UNIVERSAL HD
+http://fortv.cc:8080/Rob/Rob2021/21025
+#EXTINF:-1,BR: TELECINE ACTION HD
+http://fortv.cc:8080/Rob/Rob2021/21021
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+http://fortv.cc:8080/Rob/Rob2021/21022
+#EXTINF:-1,BR: TNT HD
+http://fortv.cc:8080/Rob/Rob2021/21024
+#EXTINF:-1,BS | beIN SPORT-2
+http://fortv.cc:8080/Rob/Rob2021/1802
+#EXTINF:-1,BR: Telecine Premium HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223245
+#EXTINF:-1,BR: Telecine Pipoca HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223244
+#EXTINF:-1,BR: Telecine Touch HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223243
+#EXTINF:-1,BR: Telecine Cult HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223242
+#EXTINF:-1,BR: Telecine Fun HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223241
+#EXTINF:-1,BR: Telecine Action HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223240
+#EXTINF:-1,BR: EPTV SAO CARLOS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223239
+#EXTINF:-1,BR: Globo Intertv alto Litoral HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223238
+#EXTINF:-1,BR: Canal do boi HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223236
+#EXTINF:-1,BR: Globo Rede Amazonica Boa HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223234
+#EXTINF:-1,BR: Globo TV Cabo Branco HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223231
+#EXTINF:-1,BR: SBT HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223229
+#EXTINF:-1,BR: GLOBO BAHIA
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223228
+#EXTINF:-1,BR: Gloob HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223226
+#EXTINF:-1,BR: GLOBO RPC TV
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223224
+#EXTINF:-1,BR: Arte 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223222
+#EXTINF:-1,BR: Globo Rede Amazonica
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223221
+#EXTINF:-1,BR: Globo RPC Maringa
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223217
+#EXTINF:-1,BR: Globo NSC Blumenau HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223216
+#EXTINF:-1,BR: GNT HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223215
+#EXTINF:-1,BR: Conmebol TV 02 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223214
+#EXTINF:-1,BR: Conmebol TV 01 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223213
+#EXTINF:-1,BR: TV Diario
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223212
+#EXTINF:-1,BR: Record SP
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223211
+#EXTINF:-1,BR: SBT GOIAS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223210
+#EXTINF:-1,BR: Globo TV Gazeta Sul ES HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223209
+#EXTINF:-1,BR: EPTV HD Campinas
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223208
+#EXTINF:-1,BR: GLOBO CABUGI
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223207
+#EXTINF:-1,BR: Globo Rede Amazonica PortoVelho HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223205
+#EXTINF:-1,BR: GLOBO RJ
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223204
+#EXTINF:-1,BR: Fashion HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223202
+#EXTINF:-1,BR: Futura HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223201
+#EXTINF:-1,BR: tvaparecida
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223200
+#EXTINF:-1,BR: Music Box HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223199
+#EXTINF:-1,BR: REDE GOSPEL
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223198
+#EXTINF:-1,BR: Globo HD RJ
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223197
+#EXTINF:-1,BR: TV Bahia HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223193
+#EXTINF:-1,BR: CNN Brasil HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223192
+#EXTINF:-1,BR: Globo TV Clube Teresina HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223191
+#EXTINF:-1,BR: Globo RPC TV PONTA GROSSA HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223189
+#EXTINF:-1,BR: Record Brasilia HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223187
+#EXTINF:-1,BR: Conmebol TV 04 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223185
+#EXTINF:-1,BR: GLOBO TRIBUNA SANTOS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223184
+#EXTINF:-1,BR: Canal Brasil HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223009
+#EXTINF:-1,BR: RPC TV Curitiba HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223183
+#EXTINF:-1,BR: Record RJ
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223179
+#EXTINF:-1,BR: TBS HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223178
+#EXTINF:-1,BR: Band News HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223177
+#EXTINF:-1,BR: Globo TV Vanguarda Taubate HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223176
+#EXTINF:-1,BR: Globo RBS TV Pelotas HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223175
+#EXTINF:-1,BR: TV Verdes Mares HD Fortaleza
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223174
+#EXTINF:-1,BR: GLOBO TV MIRANTE
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223173
+#EXTINF:-1,BR: RECORDTV HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223171
+#EXTINF:-1,BR: MTV LIVE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223170
+#EXTINF:-1,BR: Band Campinas HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223167
+#EXTINF:-1,BR: Globo InterTV Cabug RN
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223165
+#EXTINF:-1,BR: GLOBO RBS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223163
+#EXTINF:-1,BR: GLOBO TV TEM SOROCABA
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223159
+#EXTINF:-1,BR: Globo florianopolis-HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223158
+#EXTINF:-1,BR: Rede TV HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223156
+#EXTINF:-1,BR: Globo Brasilia HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223154
+#EXTINF:-1,BR: Discovery Ks HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223152
+#EXTINF:-1,BR: Conmebol TV 03 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223151
+#EXTINF:-1,BR: Record MG HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223149
+#EXTINF:-1,BR: GLOBO NACIONAL
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223147
+#EXTINF:-1,BR: TV RA Tim Bum HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223146
+#EXTINF:-1,BR: Globo TV Verdes Mares Fortaleza
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223145
+#EXTINF:-1,BR: Globo News HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223144
+#EXTINF:-1,BR: GLOBO RIBEIRAO PRETO
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223141
+#EXTINF:-1,BR: BIS HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223140
+#EXTINF:-1,BR: TRU TV
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223139
+#EXTINF:-1,BR: RECORD GOIAS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223137
+#EXTINF:-1,BR: GLOBO VITORIA
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223135
+#EXTINF:-1,BR: Globo HD Minas
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223134
+#EXTINF:-1,BR: espnextra
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223133
+#EXTINF:-1,BR: Curta HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223131
+#EXTINF:-1,BR: GLOBO ASA BRANCA
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223130
+#EXTINF:-1,BR: Globo EPTV Ribeirao Preto HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223129
+#EXTINF:-1,BR: Woohoo HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223128
+#EXTINF:-1,BR: VH1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223127
+#EXTINF:-1,BR: Lifetime HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223125
+#EXTINF:-1,BR: tvnovotempo
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223123
+#EXTINF:-1,BR: Globo TV Itapetininga
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223118
+#EXTINF:-1,BR: Record Campinas HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223117
+#EXTINF:-1,BR: MTV HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223116
+#EXTINF:-1,BR: cultura
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223115
+#EXTINF:-1,BR: Band HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223114
+#EXTINF:-1,BR: GLOOBINHO
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223113
+#EXTINF:-1,BR: Globo HD SP
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223110
+#EXTINF:-1,BR: Globo TV Integracao Juizde Fora
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223109
+#EXTINF:-1,BR: GLOBO Nsc Joinville
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223108
+#EXTINF:-1,BR: GLOBO TV CABO BRANCO
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223107
+#EXTINF:-1,BR: RBS TV HD Porto Alegre
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223106
+#EXTINF:-1,BR: Rede Va HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223105
+#EXTINF:-1,BR: Globo Rpc Cascavel HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223104
+#EXTINF:-1,BR: Band Sports HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223092
+#EXTINF:-1,BR: ESPN HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223090
+#EXTINF:-1,BR: ESPN Brasil HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223089
+#EXTINF:-1,BR: Premiere 8 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223088
+#EXTINF:-1,BR: Premiere 7 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223087
+#EXTINF:-1,BR: Premiere 5 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223085
+#EXTINF:-1,BR: Premiere 4 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223084
+#EXTINF:-1,BR: Premiere 3 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223083
+#EXTINF:-1,BR: Premiere 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223082
+#EXTINF:-1,BR: Premiere 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223081
+#EXTINF:-1,BR: Premiere Clubes HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223080
+#EXTINF:-1,BR: Fox Sports 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223079
+#EXTINF:-1,BR: Fox Sports HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223078
+#EXTINF:-1,BR: Combate HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223077
+#EXTINF:-1,BR: DAZN-HD2
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223076
+#EXTINF:-1,BR: DAZN-HD3
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223075
+#EXTINF:-1,BR: DAZN-HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223074
+#EXTINF:-1,BR: Nick Jr HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223072
+#EXTINF:-1,BR: Disney Channel HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223070
+#EXTINF:-1,BR: Nickelodeon HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223069
+#EXTINF:-1,BR: disneyxd
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223068
+#EXTINF:-1,BR: Gazeta
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223067
+#EXTINF:-1,BR: Tooncast
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223066
+#EXTINF:-1,BR: Cartoon HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223065
+#EXTINF:-1,BR: baby tv
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223063
+#EXTINF:-1,BR: TLC HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223062
+#EXTINF:-1,BR: Animal Planet HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223061
+#EXTINF:-1,BR: Discovery Turbo HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223060
+#EXTINF:-1,BR: NatGeoKidsHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223059
+#EXTINF:-1,BR: Food Network HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223058
+#EXTINF:-1,BR: AE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223057
+#EXTINF:-1,BR: HGTV HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223056
+#EXTINF:-1,BR: NatGeo Wild HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223052
+#EXTINF:-1,BR: Travel Box Brasil HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223051
+#EXTINF:-1,BR: Discovery Channel HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223050
+#EXTINF:-1,BR: Discovery Science HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223049
+#EXTINF:-1,BR: Nat Geo HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223048
+#EXTINF:-1,BR: History 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223047
+#EXTINF:-1,BR: The History Channel HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223046
+#EXTINF:-1,BR: Disc: Home Health HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223045
+#EXTINF:-1,BR: tcm
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223044
+#EXTINF:-1,BR: Multishow HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223043
+#EXTINF:-1,BR: Prime Box HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223042
+#EXTINF:-1,BR: Film Arts HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223041
+#EXTINF:-1,BR: Space HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223040
+#EXTINF:-1,BR: axnhd
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223039
+#EXTINF:-1,BR: SyFy HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223038
+#EXTINF:-1,BR: ZooMoo HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223037
+#EXTINF:-1,BR: OFF HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223036
+#EXTINF:-1,BR: Megapix HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223035
+#EXTINF:-1,BR: GLOBO SERGIPE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223033
+#EXTINF:-1,BR: Comedy Central HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223031
+#EXTINF:-1,BR: Canal Sony HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223030
+#EXTINF:-1,BR: Warner Channel HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223029
+#EXTINF:-1,BR: TNT HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223026
+#EXTINF:-1,BR: FX HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223025
+#EXTINF:-1,BR: Studio Universal HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223024
+#EXTINF:-1,BR: AMC HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223023
+#EXTINF:-1,BR: Paramount HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223022
+#EXTINF:-1,BR: TNT Series HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223021
+#EXTINF:-1,BR: Cinemax HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223020
+#EXTINF:-1,BR: STAR HITS HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223018
+#EXTINF:-1,BR: HBO MUNDI HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223017
+#EXTINF:-1,BR: HBO Signature HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223016
+#EXTINF:-1,BR: HBO Family HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223015
+#EXTINF:-1,BR: HBO POP HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223014
+#EXTINF:-1,BR: HBO Plus HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223013
+#EXTINF:-1,BR: HBO Xtreme HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223012
+#EXTINF:-1,BR: HBO HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223010
+#EXTINF:-1,BR: CINE SKY 01
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223260
+#EXTINF:-1,BR: CINE SKY 02
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223261
+#EXTINF:-1,BR: CINE SKY 03
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223262
+#EXTINF:-1,BR: CINE SKY 04
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223263
+#EXTINF:-1,BR: CINE SKY 05
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223264
+#EXTINF:-1,BR: CINE SKY 06
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223265
+#EXTINF:-1,BR: CINE SKY 07
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223266
+#EXTINF:-1,BR: CINE SKY 08
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223267
+#EXTINF:-1,BR: CINE SKY 09
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223269
+#EXTINF:-1,BR: CINE SKY 10
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223268
+#EXTINF:-1,BR: CINE Pipoca 07
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223252
+#EXTINF:-1,BR: CINE Pipoca 14
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223259
+#EXTINF:-1,BR: HBO 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/223011
