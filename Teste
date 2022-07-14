@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",AMC HD
+http://45.232.196.7:5000/live/AMC/720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",AMC HD+
+http://45.232.196.7:5000/live/AMC/720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",A&E HD
+http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8?token=RED_NV9FXLX-ZfIYsQw8Cld26w==,1654366514.4009414566
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",AXN SD
+http://187.85.237.8:8825/ipvt_005
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",CINEMAX HD
+http://51.222.29.49:8089/btv0cd2b59755137209be94cb/BR%3A%20Cinemax%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",ANIMAL PLANET FHD
+http://138.199.50.73:80/auth/c8nv6GU4ZnVtElvKNWVISGHxT9gfgms6kBgMSDZ0r6yRi7TQwsx7Ks00ZBAIaMsVZaFhX_v1bm4rlfoVN8dUGwQZ02MzNRNReuV3NYiyjVitQ3qfa7CgoEWzjfFtNMtYrm2knMH7sSqMO0lKRGDkw5Vpe_2CkqYyfNjRdeKhNsFDleTIKeafHDq1cpyzlONjeLKv4XiRCQUJIzVbTIs2xFrwQig1Dh8_LXceLdLWIg9x1jt_VPXb3KcLdc-Poon3iVy2c7YXJizOgwYg-HMToh1VkKQJBhdZ0oaOI8hXWUZdLOWNieAmeEi3tOkeye2-kGYthDNKEdtxawvWM19gnbrDRioUuwHdBHM24AaHEcLbdvRkNfqphjKa9w9wdZG1hHdyBdwOsRRRvDXzJaxdo9SzXvhpBmSq3DE6blJFnhbNQd0JQGkFNXtTYAxtaCoVNO3yRBvzjjfGtAk43hlG6xpWfLG303tLAZ15xVPkCLFJtQM4a4TSZOkQpxDgVb8vWB1WTZ7q8ihhQIIKTQMndeVpdny3-w9rHTHWHtg69s7H-7Mox9huecSLKvIvIAqtSfPgB-G-ekpOBeYk3nOemwsxTcy3-tVu9tHN80qiuFb3LiX7JyQjLoPSNKAUtTmzep6eRDAtwLAbitJf2hfNWQ
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GLOBO RJ HD
+ http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",RECORD RIO
+http://186.227.63.210:5000/live/RECORDRJ/720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",BAND SP HD
+http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS 24H",DRAGON BALL Z 24H
+http://46.4.85.197:80/24H-dragon.ball.z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS 24H",CHAVES 24H
+http://46.4.85.197:80/24H-chaves-serie/tracks-v1a1/mono.m3u8
