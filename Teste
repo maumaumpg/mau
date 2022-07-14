@@ -16,8 +16,212 @@ http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8?token=RED_NV9FXLX-Zf
 http://187.85.237.8:8825/ipvt_005
 
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",CINEMAX FHD
+http://51.222.29.49:8089/btv0cd2b59755137209be94cb/BR%3A%20Cinemax%20FHD
+
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",CINEMAX HD
 http://51.222.29.49:8089/btv0cd2b59755137209be94cb/BR%3A%20Cinemax%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",SPACE FHD
+http://51.222.30.109:8089/btv0cd2b59755137209be94cb/BR%3A%20Space%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", MEGAPIX FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20MegaPix%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", PARAMOUNT FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20Paramount%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", FX HD
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", WARNER CHANNEL FHD
+http://51.222.155.102:80/btv0cd2b59755137209be94cb/BR%3A%20Warner%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", WARNER CHANNEL HD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20Warner%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", STAR CHANNEL HD
+http://187.85.237.3:8220/ipvt_002 
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",SONY HD
+http://187.85.237.5:8222/ipvt_004
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", TNT SERIES HD
+http://51.222.30.109:8089/btv0cd2b59755137209be94cb/BR%3A%20TNT%20Series%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", TNT SERIES HD
+http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", TNT FHD
+http://51.222.30.109:8089/btv0cd2b59755137209be94cb/BR%3A%20TNT%20FHD
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", TNT SD
+http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",TLC PIPOCA HD
+http://187.85.237.25:8825/ipvt_005
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",TLC PREMIUM SD
+http://187.85.237.34:8825/ipvt_002
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",TLC ACTION SD
+http://187.85.237.26:8825/ipvt_004
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",TLC CULT HD
+http://187.85.237.34:8825/ipvt_001
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", HBO FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20HBO%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", HBO HD
+http://187.95.95.243:80/hbo/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV HD
+http://212.102.60.39:2200/BR/Sportv_HD-br/index.m3u8?token=RED_XOPfLVWO90OHc-9pDoGnWQ==,1657745198.8617422156
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV HD+
+http://144.217.69.58:8089/btv0cd2b59755137209be94cb/BR%3A%20Sport%20TV%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV 2 HD
+http://212.102.60.39:2200/BR/Sportv_2_HD-br/index.m3u8?token=RED_XOPfLVWO90OHc-9pDoGnWQ==,1657745198.8617422156
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV 2 FHD
+http://51.222.30.109:8089/btv0cd2b59755137209be94cb/BR%3A%20Sport%20TV2%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV 3 FHD
+http://51.222.30.109:8089/btv0cd2b59755137209be94cb/BR%3A%20Sport%20TV3%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",PREMIERE FC HD
+http://144.217.69.58:8089/btv0cd2b59755137209be94cb/BR%3A%20Premieres%20Clubes%20HD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",PREMIERE 2 FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20Premieres%202%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",PREMIERE 3 FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20Premieres%203%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN BRASIL HD
+http://212.102.60.39:2200/BR/ESPN_Brasil_HD-br/index.m3u8?token=RED_XOPfLVWO90OHc-9pDoGnWQ==,1657745198.8617422156
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN BRASIL FHD
+http://51.222.29.238:8089/btv0cd2b59755137209be94cb/BR%3A%20ESPN%20Brasil%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 2 FHD
+http://51.222.29.238:8089/btv0cd2b59755137209be94cb/BR%3A%20ESPN%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 2 HD
+http://45.232.196.7:5000/live/ESPN2/720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 2 HD+
+http://212.102.60.39:2200/BR/ESPN_HD-br/tracks-a2/mono.m3u8?token=RED_XOPfLVWO90OHc-9pDoGnWQ%3D%3D%2C1657745198.8617422156
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 4 HD
+http://170.82.200.38/fox_sports_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 4 HD+
+http://191.37.250.169:8801/live/FoxSportsHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN 4 FHD
+http://51.222.29.238:8089/btv0cd2b59755137209be94cb/BR%3A%20FOX%20Sports%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",COMBATE HD
+http://212.102.60.39:2200/BR/Combate_HD-br/tracks-a2/mono.m3u8?token=RED_XOPfLVWO90OHc-9pDoGnWQ%3D%3D%2C1657745198.8617422156
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",COMBATE FHD
+http://51.222.29.49:8089/btv0cd2b59755137209be94cb/BR%3A%20Combate%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",ARTE 1 SD
+http://187.85.237.34:8825/ipvt_003
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",DISCOVERY CHANNEL HD
+http://45.232.196.7:5000/live/DISCOVERY/720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",DISCOVERY SCIENCE HD
+http://45.232.196.7:5000/live/DISCOSCI/720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",DISCOVERY TURBO HD
+http://45.232.196.7:5000/live/DISCTUR/720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",LIFETIME SD
+http://187.85.237.32:8825/ipvt_001
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",HISTORY HD
+http://187.85.237.32:8825/ipvt_007
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",MULTSHOW SD
+http://187.85.237.26:8825/ipvt_002
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",MULTISHOW FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20Multishow%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",MTV FHD
+http://51.222.29.212:8089/btv0cd2b59755137209be94cb/BR%3A%20MTV%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",MTV SD
+http://187.85.237.8:8825/ipvt_004
+
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",TLC FHD
+http://51.222.30.109:8089/btv0cd2b59755137209be94cb/BR%3A%20TLC%20FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",VIVA FHD
+http://51.222.155.102:80/btv0cd2b59755137209be94cb/BR%3A%20Viva%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS DE SESENHOS",DISCOVERY KIDS FHD
+http://51.222.29.49:8089/btv0cd2b59755137209be94cb/BR%3A%20Discovery%20Kids%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS DE SESENHOS",GLOOB FHD
+http://51.222.29.217:8089/btv0cd2b59755137209be94cb/BR%3A%20Gloob%20FHD
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS DE SESENHOS",TOONCAST HD
+http://46.4.85.197:80/Tooncast/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS DE SESENHOS",CARTOONITO HD
+http://45.232.196.7:5000/live/CARTOONITO/720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
 
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES",ANIMAL PLANET FHD
@@ -32,8 +236,74 @@ http://186.227.63.210:5000/live/RECORDRJ/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",BAND SP HD
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS 24H",DRAGON BALL Z 24H
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",DRAGON BALL Z 24H
 http://46.4.85.197:80/24H-dragon.ball.z/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS 24H",CHAVES 24H
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",CHAVES 24H
 http://46.4.85.197:80/24H-chaves-serie/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",CHAPOLIN 24H
+http://46.4.85.197:80/24H-chapolin1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",OS SIMPSONS 24H
+http://46.4.85.197:80/24H-ossimpsons/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="24 HORAS",
+
+
+
+
+
+
+
